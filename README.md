@@ -8,9 +8,9 @@ I'm also into cyber security and network management.
 
 fun facts about me:
 
-History nerd
+~History nerd
 
-Insanely curious
+~Insanely curious
 
-Hobbies:Cycling
+~Hobbies:Cycling
 
